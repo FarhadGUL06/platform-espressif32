@@ -32,8 +32,8 @@
     "framework-arduinoespressif32": {
       "type": "framework",
       "optional": true,
-      "owner": "tasmota",
-      "version": "https://github.com/Jason2866/esp32-arduino-lib-builder/releases/download/2459/framework-arduinoespressif32-all-release_v5.1-371d83e.zip"
+      "owner": "FarhadGUL06",
+      "version": "https://github.com/FarhadGUL06/framework-arduinoespressif32/releases/download/v1.0.0/framework-arduinoespressif32.zip"
     },
      "framework-arduino-solo1": {
       "type": "framework",
